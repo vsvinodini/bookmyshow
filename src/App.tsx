@@ -1,12 +1,12 @@
 
 import './App.css'
-
+import MainRoutes from './Routing/MainRoutes';
 function App() {
   
 
   return (
-<div> book my show </div>
-  )
+<MainRoutes />
+  );
 }
 
 export default App
